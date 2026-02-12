@@ -5,7 +5,7 @@ package ldnsupd
 
 import (
 	"context"
-	"fmt"
+	// "fmt"
 	"sync"
 
 	"github.com/libdns/libdns"
